@@ -6,7 +6,7 @@
 
     -   unprettified orignial code (r markdown)
 
-    -   HTML file of the original code \^
+    -   (NOT CURRENTLY AVALIABLE) HTML file of the original code \^ (STRUGGLING TO KNIT...)
 
     -   prettified code based off of the original code \^
 
