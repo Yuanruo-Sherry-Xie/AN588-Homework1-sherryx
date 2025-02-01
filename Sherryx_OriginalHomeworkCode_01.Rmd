@@ -11,8 +11,11 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r}
 #took out the stinger package because otherwise it would not let me knit into HTML
 #THIS IS WHERE IT WOULD NOT LET ME KNIT. IT CRASHES. IT IS TELLING ME TO UPDATE MY PACKAGE WHICH I HAVE BUT IT STILL DOES NOT WORK...
-remove.packages("tidyverse")
-install.packages("tidyverse")
+#remove.packages("tidyverse")
+#install.packages("tidyverse")
+install.packages("stringr")
+library(stringr)
+
 ```
 
 # Matrices and Arrays

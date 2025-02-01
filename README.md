@@ -12,6 +12,10 @@
 
     -   random-people csv
 
+-   currently MISSING:
+
+    -   HTML files because r keeps on telling me library stringr does not exist and I can not knit the file
+
 -   My unprettified code which incorporates notes from modules 3 and 4, as well as all the challenges from module 4
 
 -   each section should be the title/ header before the notes and code are shown
