@@ -16,6 +16,6 @@
 
 -   each section should be the title/ header before the notes and code are shown
 
--   I have comments in my code sections, let me know if they are confusing
+-   I have comments in my code sections to help my readers and myself understand what's going on or my thought process in general, let me know if they are confusing
 
 Thanks for reading this!
