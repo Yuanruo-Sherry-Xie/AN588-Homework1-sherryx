@@ -1,6 +1,6 @@
 # AN588-Homework1-sherryx
 
--   Hi there!
+-   Hi there! 😄
 
 -   In this repo you should see the following:
 
